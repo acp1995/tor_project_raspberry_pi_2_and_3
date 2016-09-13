@@ -37,7 +37,7 @@ echo "$(tput setaf 2)
             . rJuv::          
                              
             $(tput setaf 2)ONION PI
-           $(tput bold ; tput setaf 5)by adafruit$(tput sgr0)
+           $(tput bold ; tput setaf 5)by arka$(tput sgr0)
 "
 
 echo "$(tput setaf 6)This script will auto-setup an Onion Pi Tor proxy for you.$(tput sgr0)"
