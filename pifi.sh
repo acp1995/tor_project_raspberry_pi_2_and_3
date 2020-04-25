@@ -1,7 +1,7 @@
 #!/bin/bash
 # Based on Adafruit Learning Technologies Onion Pi project
 # Edited by Arkajyoti Choudhury
-#for further info contact me @ rhymeofbrooklyn@gmail.com
+#for further info contact me at rhymeofbrooklyn@gmail.com or facebook.com/arkajyoti.choudhury.9
 
 if (( $EUID != 0 )); then 
    echo "This must be run as root. Try 'sudo bash $0'." 
